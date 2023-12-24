@@ -17,6 +17,7 @@ The project consists of the following files and directories:
 
 
 ```shell
+Entrega 1:
 └── DaraGame-WebSite
     ├── index.html
     ├── README.md
@@ -39,12 +40,12 @@ To run this project on your local machine, follow these steps:
 
 1. Clone this repository to your local computer:
    ```bash
-   git clone https://github.com/marisaazevedo/DaraGame-WebSite
+   git clone https://github.com/franciscoribeiro2003/WebApp-Dara-Game
    ```
 
 2. Open the project folder:
    ```bash
-   cd DaraGame-WebSite
+   cd WebApp-Dara-Game
    ```
 
 3. Open the `index.html` file in your web browser. If you are facing issues with loading the javascripts on your browser, you can host and run it on localhost (If you use the editor visual studio code you can download an extension from microsoft called `Live Server` (ms-vsliveshare.vsliveshare)).
