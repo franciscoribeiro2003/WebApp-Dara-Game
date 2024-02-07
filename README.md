@@ -1,6 +1,6 @@
 # Dara Game Single Web Application
 
-[](https://franciscoribeiro2003.github.io/assets/img/dara.jpeg)
+![game cover](https://franciscoribeiro2003.github.io/assets/img/dara.jpeg)
 
 ## Project Description
 This is a web technology project focused on creating a single-page web application for the popular Nigerian Dara game.
