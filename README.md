@@ -1,10 +1,12 @@
 # Dara Game Single Web Application
 
+[](https://franciscoribeiro2003.github.io/assets/img/dara.jpeg)
+
 ## Project Description
 This is a web technology project focused on creating a single-page web application for the popular Nigerian Dara game.
 
 ## Project Structure
-The project consists of the following files and directories:
+To test the game in your machine, the project consists of the following files and directories:
 
 
 
@@ -45,7 +47,7 @@ To run this project on your local machine, follow these steps:
 
 2. Open the project folder:
    ```bash
-   cd WebApp-Dara-Game
+   cd WebApp-Dara-Game/Entrega-1
    ```
 
 3. Open the `index.html` file in your web browser. If you are facing issues with loading the javascripts on your browser, you can host and run it on localhost (If you use the editor visual studio code you can download an extension from microsoft called `Live Server` (ms-vsliveshare.vsliveshare)).
